@@ -13,3 +13,4 @@ koszt_podrozy = zuzycie_paliwa * cena_paliwa
 # Wyświetlenie wyników
 print("Przewidywane zużycie paliwa w litrach:", zuzycie_paliwa)
 print("Szacowany koszt podróży w zł:", koszt_podrozy)
+# test
