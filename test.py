@@ -1,3 +1,6 @@
+# Wyświetlenie wyników
+# Wyświetlenie wyników
+# Wyświetlenie wyników
 dystans = float(input("Podaj drogę pokonaną przez samochód (w km): "))
 spalanie = float(input("Podaj średnie spalanie paliwa (litry na 100 km): "))
 
