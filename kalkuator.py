@@ -27,3 +27,4 @@ elif wybor == 4:
 elif wybor == 5:
     wynik = zmienna1 ** zmienna2
 print(f'Wynik: {round(wynik,2)}')
+#####test
